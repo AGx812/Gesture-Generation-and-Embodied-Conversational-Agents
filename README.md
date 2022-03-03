@@ -1,5 +1,5 @@
 Source:
-[Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning]
+[Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://github.com/UttaranB127/speech2affective_gestures)
 
 Github does not include the venv, ted_db, outputs, models, or data folders for storage reasons (each is several gb, totaling about 80 gb)
 
