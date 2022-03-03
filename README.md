@@ -1,4 +1,4 @@
-#Gesture Generation and Embodied Conversational Agents
+# Gesture Generation and Embodied Conversational Agents
 
 Source:
 [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://github.com/UttaranB127/speech2affective_gestures)
