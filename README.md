@@ -8,4 +8,6 @@ Github does not include the venv, ted_db, outputs, models, or data folders for s
 In order to run, assure you have the libraries with appropriate versions mentioned on the link. 
 Then, run python main_v2.py -c config/multimodal_context_v2.yml
 
+Full details of my work can be seen via the final research paper on Affect_Gesture_Generation_and_Embodied_Conversational_Agents___CS_549.pdf
+
 
