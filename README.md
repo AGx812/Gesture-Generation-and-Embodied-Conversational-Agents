@@ -9,4 +9,3 @@ In order to run, assure you have the libraries with appropriate versions mention
 Then, run python main_v2.py -c config/multimodal_context_v2.yml
 
 
-Project is in progress, will be updated.
