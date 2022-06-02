@@ -8,6 +8,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'plucky-sector-346202-445f467170a
 client = texttospeech_v1.TextToSpeechClient()
 
 text = "bonjour"
+# this is the text that is being converted to speech
 
 
 synthesis_input = texttospeech_v1.SynthesisInput(text=text)
